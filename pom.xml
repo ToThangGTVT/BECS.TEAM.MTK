@@ -233,11 +233,6 @@
             <artifactId>jackson-core-asl</artifactId>
             <version>1.9.2</version>
         </dependency>
-        <dependency>
-            <groupId>fa.training.becs</groupId>
-            <artifactId>BECS.TEAM.MTK</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
-        </dependency>
 
         <!-- Commons Fileupload -->
         <dependency>
