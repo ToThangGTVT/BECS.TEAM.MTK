@@ -1,0 +1,15 @@
+
+5
+java:S3751="Make this method "public".(ÌÛÂ›øÿÿÿÿ
+0
+java:S3751`"Make this method "public".(–“ä×
+c
+java:S11920"HDefine a constant instead of duplicating this literal "pageNum" 3 times.(›äşœüÿÿÿÿ
+c
+java:S11921"MDefine a constant instead of duplicating this literal "categoryList" 3 times.(·Æä
+5
+java:S3751"Make this method "public".(‰Û’Éıÿÿÿÿ
+7
+java:S3751V"Make this method "public".(äŞ§8øâÇâ£.
+¨
+java:S1130!"ŠRemove the declaration of thrown exception 'fa.tranning.becs.exception.ParamNotValidException', as it cannot be thrown from method's body.(‘˜øú8ĞöÄÔ¥.

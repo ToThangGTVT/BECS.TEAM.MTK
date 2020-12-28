@@ -1,0 +1,16 @@
+
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(¨Ô…‹
+e
+java:S4488&"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Ãèïûÿÿÿÿ
+c
+java:S4488 "HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ïşÒÊûÿÿÿÿ
+L
+java:S1128"1Remove this unused import 'java.io.OutputStream'.(Ó ³ÿÿÿÿÿ
+S
+java:S1128"=Remove this unused import 'org.hibernate.cfg.PropertyHolder'.(¿Ş½ú
+^
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ú­Ç†
+q
+java:S1488""\Immediately return this expression instead of assigning it to the temporary variable "view".(ìä¹
+d
+java:S1192"ODefine a constant instead of duplicating this literal "admin/admLogin" 3 times.(ìä¹

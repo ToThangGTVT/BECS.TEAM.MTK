@@ -1,0 +1,9 @@
+
+c
+java:S1128"ARemove this unused import 'javax.validation.constraints.Pattern'.(¶ò†€øÿÿÿÿ8ŸÅÕ¤.
+e
+java:S1128"CRemove this unused import 'fa.tranning.becs.utility.RegexUtitlity'.(ûûÁæüÿÿÿÿ8ŸÅÕ¤.
+^
+java:S1128"BRemove this unused import 'javax.validation.constraints.NotEmpty'.(ÿÿör8¿†İÕ¤.
+f
+java:S1128"IRemove this unused import 'fa.tranning.becs.validate.GroupLoginValidate'.(¹ß™«8ŸÅÕ¤.

@@ -1,0 +1,9 @@
+
+q
+java:S1128"ORemove this unused import 'org.springframework.format.annotation.NumberFormat'.(ÅúÚ’şÿÿÿÿ8ôùÓÏ¥.
+\	java:S1076"BConstructor has 10 parameters, which is greater than 7 authorized.(ßšßÂıÿÿÿÿ
+A
+java:S11726"&Remove these unused method parameters.(ßšßÂıÿÿÿÿ
+M
+java:S1128
+"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8­–Ö¤.

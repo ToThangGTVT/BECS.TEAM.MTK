@@ -1,0 +1,54 @@
+
+o
+java:S2441A"MMake "List" and its parameters serializable or don't store it in the session.(À†¼×ùÿÿÿÿ8øıØ¤.
+Q
+java:S3740^"/Provide the parametrized type for this generic.(ššˆúÿÿÿÿ8øıØ¤.
+Q
+java:S37400"/Provide the parametrized type for this generic.(šøÿßúÿÿÿÿ8øıØ¤.
+N
+java:S1128"1Remove this unused import 'java.math.BigDecimal'.(êêŠ8øıØ¤.
+e
+java:S4488!"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ÈüÃşÿÿÿÿ
+o
+java:S2441,"MMake "List" and its parameters serializable or don't store it in the session.(À†¼×ùÿÿÿÿ8øıØ¤.
+D
+java:S3740o"/Provide the parametrized type for this generic.(¤Ôò4
+Z	java:S106e"9Replace this use of System.out or System.err by a logger.(”ãíşÿÿÿÿ8øıØ¤.
+K
+java:S3740N"/Provide the parametrized type for this generic.(¤Ôò48øıØ¤.
+L
+java:S3740L"/Provide the parametrized type for this generic.(¾ŞûĞ8øıØ¤.
+`
+java:S3752]">Add a "method" parameter to this "@RequestMapping" annotation.(··‰Æüÿÿÿÿ8øıØ¤.
+L
+java:S3740{"/Provide the parametrized type for this generic.(¾ŞûĞ8´µøş¢.
+T
+java:S1128"9Remove this unused import 'fa.tranning.becs.entity.Book'.(†ÊŠşÿÿÿÿ
+E
+java:S3740m"/Provide the parametrized type for this generic.(¾ŞûĞ
+L
+java:S3740v"/Provide the parametrized type for this generic.(ÄõŞ¬8´µøş¢.
+g
+java:S44887"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(˜œ¦—8øıØ¤.
+K
+java:S37402"/Provide the parametrized type for this generic.(¤Ôò48øıØ¤.
+l
+java:S4488u"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Õıñˆúÿÿÿÿ8´µøş¢.
+L
+java:S3740y"/Provide the parametrized type for this generic.(ëú–¦8´µøş¢.
+[
+java:S3752S">Add a "method" parameter to this "@RequestMapping" annotation.(âƒ™Ñ8øıØ¤.
+L
+java:S3740_"/Provide the parametrized type for this generic.(ëú–¦8øıØ¤.
+L
+java:S3740%"/Provide the parametrized type for this generic.(ëú–¦8øıØ¤.
+o
+java:S2441h"MMake "List" and its parameters serializable or don't store it in the session.(À†¼×ùÿÿÿÿ8øıØ¤.
+m
+java:S1128"KRemove this unused import 'fa.tranning.becs.services.impl.BookServiceImpl'.(§ß«Õüÿÿÿÿ8øıØ¤.
+f
+java:S1192)"IDefine a constant instead of duplicating this literal "cartItem" 8 times.(İÚƒ8øıØ¤.
+L
+java:S37409"/Provide the parametrized type for this generic.(ëú–¦8øıØ¤.
+D
+java:S3740}"/Provide the parametrized type for this generic.(¤Ôò4

@@ -1,0 +1,35 @@
+body {
+  background-image: url(../images/bg/6.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+.my_account_area.pt--80.pb--55.bg--white {
+    background-color: #ff000000;
+    height: 100vh;
+    padding-top: 110px;
+    /* position: relative; */
+}
+/* #contentLogin{
+    
+    position: absolute ;
+    top: 50%;
+    transform: translate(0, -50%);
+    
+} */
+#contentLogin .row div h3{
+    color: white !important;
+}
+#contentLogin .account__form .form__btn button{
+    color: white !important;
+    border-color: white;
+}
+
+#contentLogin .account__form .input__box label{
+    color: white !important;
+}
+#contentLogin .account__form .input__box a{
+    color: white !important;
+}
+
+

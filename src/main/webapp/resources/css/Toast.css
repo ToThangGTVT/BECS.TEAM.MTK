@@ -1,0 +1,31 @@
+
+[data-type-toast="error"] .toast-header {
+    background-color: #f70000;
+    color: white;
+}
+[data-type-toast="error"] .toast-body {
+    background-color: #ff1a1a;
+    color: white;
+}
+[data-type-toast="error"] {
+    background-color: red;
+}
+
+[data-type-toast="success"] .toast-header {
+    background-color: #097309;
+    color: white;
+}
+[data-type-toast="success"] .toast-body {
+    background-color: #0aab0a;
+    color: white;
+}
+[data-type-toast="success"] {
+    background-color: green;
+}
+
+#toastComponent{
+    position: fixed;
+    top: 15%;
+    right: 2%;
+    z-index: 99;
+}

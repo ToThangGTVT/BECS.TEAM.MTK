@@ -1,0 +1,13 @@
+
+0
+java:S3751"Make this method "public".(Î¤ÉÒ
+m
+java:S1192"RDefine a constant instead of duplicating this literal "customer/register" 3 times.(‡’îøÿÿÿÿ
+[
+java:S1128"@Remove this unused import 'org.springframework.http.HttpStatus'.(íŸ¤Šúÿÿÿÿ
+5
+java:S3751""Make this method "public".(ŞàØøÿÿÿÿ
+f
+java:S1128"PRemove this unused import 'org.springframework.validation.annotation.Validated'.(¸ÒÖƒ
+[
+java:S4684""@Replace this persistent entity with a simple POJO or DTO object.(ŞàØøÿÿÿÿ

@@ -1,0 +1,44 @@
+[data-type="warning"] .modal-header{
+    background-color: #e23333;
+    border-bottom-color:#e23333	;
+}
+[data-type="warning"] .modal-header h4{
+    color:white;
+    word-break:break-all;
+}		
+[data-type="warning"] .modal-body{
+	background-color: #e24a4a;
+	color:white;
+	word-break:break-all;
+}
+[data-type="warning"] .modal-footer{
+	border-top-color:#e23333;
+	background-color: #e23333;
+}
+#btn-showModal{
+	display:none;
+}
+
+[data-type="success"] .modal-header{
+    background-color: #28a745;
+    border-bottom-color:#28a745	;
+}
+[data-type="success"] .modal-header h4{
+    color:white;
+    word-break:break-all;
+}		
+[data-type="success"] .modal-body{
+	background-color: #21bd45;
+	color:white;
+	word-break:break-all;
+}
+[data-type="success"] .modal-footer{
+	border-top-color:#28a745;
+	background-color: #28a745;
+}
+#btn-showModal{
+	display: none;
+}
+.modal-dialog .modal-footer button{
+	background-color: white;
+}

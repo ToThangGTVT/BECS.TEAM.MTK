@@ -1,0 +1,15 @@
+
+7
+java:S2178ˆ"Correct this "|" to "||".(Åñµ8®Î¸ù¤.
+H
+java:S1168("+Return an empty collection instead of null.(¥¹ï8•ñ°Ù¤.
+Z
+java:S1155Y">Use isEmpty() to check whether the collection is empty or not.(ìíÁ&8®Î¸ù¤.
+„
+java:S2178ˆ"fCorrect this "|" to "||" and extract the right operand to a variable if it should always be evaluated.(Åñµ8®Î¸ù¤.
+T
+java:S1135'"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8•ñ°Ù¤.
+I
+java:S1168"+Return an empty collection instead of null.(¥¹ï8®Î¸ù¤.
+£
+java:S1186m"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¬Œüöÿÿÿÿÿ8®Î¸ù¤.
