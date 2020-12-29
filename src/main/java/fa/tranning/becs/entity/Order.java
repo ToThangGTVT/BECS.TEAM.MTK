@@ -28,22 +28,17 @@ public class Order {
     @ManyToOne
     private Promotion promotion;
 
-    @Column(columnDefinition = "nvarchar(250)", length = 250)
     private String firstName;
 
-    @Column(columnDefinition = "nvarchar(250)", length = 250)
     private String lastName;
     private String email;
     private String phone;
 
-    @Column(columnDefinition = "nvarchar(250)", length = 250)
     private String state;
     private String zip;
 
-    @Column(columnDefinition = "nvarchar(250)", length = 250)
     private String distric;
 
-    @Column(columnDefinition = "nvarchar(250)", length = 250)
     private String addressDetail;
 
     @OneToMany(mappedBy = "order")

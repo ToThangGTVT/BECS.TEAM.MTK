@@ -12,19 +12,15 @@ public class Address {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private int id;
 
-    @Column(columnDefinition = "nvarchar(250)", length = 250)
     @NotEmpty(message = "State is mandatory")
     private String state;
 
-    @Column(columnDefinition = "nvarchar(250)", length = 250)
     @NotEmpty(message = "Zip is mandatory")
     private String zip;
 
-    @Column(columnDefinition = "nvarchar(250)", length = 250)
     @NotEmpty(message = "Distric is mandatory")
     private String distric;
 
-    @Column(columnDefinition = "nvarchar(250)", length = 250)
     @NotEmpty(message = "Address Detail is mandatory")
     private String addressDetail;
 

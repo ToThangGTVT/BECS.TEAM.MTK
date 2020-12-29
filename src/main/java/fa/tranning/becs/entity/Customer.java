@@ -17,12 +17,10 @@ public class Customer {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private int id;
 
-    @Column(columnDefinition = "nvarchar(250)", length = 250)
     @NotEmpty(message = "First name is mandatory")
     @Length(min = 1, max = 80)
     private String firstName;
 
-    @Column(columnDefinition = "nvarchar(250)", length = 250)
     @NotEmpty(message = "Last name is mandatory")
     @Length(min = 1, max = 80)
     private String lastName;

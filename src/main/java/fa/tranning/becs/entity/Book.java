@@ -25,7 +25,6 @@ public class Book {
     @SortableField
     private int id;
 
-    @Column(columnDefinition = "nvarchar(250)", length = 250)
     @Field(index=Index.YES, analyze=Analyze.YES, store=Store.NO)
     @Analyzer(definition = "fedexTextAnalyzer")
     private String title;
@@ -33,17 +32,14 @@ public class Book {
     @Column(unique = true)
     private String isbn;
 
-    @Column(columnDefinition = "nvarchar(250)", length = 250)
     @Field(index=Index.YES, analyze=Analyze.YES, store=Store.NO)
     @Analyzer(definition = "fedexTextAnalyzer")
     private String author;
 
-    @Column(columnDefinition = "nvarchar(250)", length = 250)
     @Field(index=Index.YES, analyze=Analyze.YES, store=Store.NO)
     @Analyzer(definition = "fedexTextAnalyzer")
     private String publisher;
 
-    @Column(columnDefinition = "nvarchar(250)", length = 250)
     private String description;
     private BigDecimal price;
     private String image;
