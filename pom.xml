@@ -8,7 +8,7 @@
     <groupId>fa.training.becs</groupId>
     <artifactId>BECS.TEAM.MTK</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
 
     <name>BECS.TEAM.MTK Maven Webapp</name>
     <!-- FIXME change it to the project's website -->
@@ -298,6 +298,15 @@
                             </goals>
                         </execution>
                     </executions>
+                </plugin>
+
+                <plugin>
+                    <groupId>org.apache.maven.plugins</groupId>
+                    <artifactId>maven-compiler-plugin</artifactId>
+                    <configuration>
+                        <source>7</source>
+                        <target>7</target>
+                    </configuration>
                 </plugin>
 
 <!--                <plugin>-->
