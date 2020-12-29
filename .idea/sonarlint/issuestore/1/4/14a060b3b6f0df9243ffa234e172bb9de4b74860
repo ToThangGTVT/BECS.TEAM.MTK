@@ -1,17 +1,0 @@
-
-\
-java:S2441"?Make "Promotion" serializable or don't store it in the session.(©øáÜ8ÕËŸŒ£.
-J
-java:S3740"/Provide the parametrized type for this generic.(‘—ö²úÿÿÿÿ
-E
-java:S3740%"/Provide the parametrized type for this generic.(Ö˜êž
-U
-java:S1128"3Remove this unused import 'java.util.ListIterator'.(õ¥æÊþÿÿÿÿ8ÎþÒŒ£.
-l
-java:S1128"QRemove this unused import 'org.springframework.web.bind.annotation.ResponseBody'.(•¶¶êøÿÿÿÿ
-e
-java:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Ãè³»úÿÿÿÿ
-J
-java:S3740#"/Provide the parametrized type for this generic.(ØèÌðþÿÿÿÿ
-E
-java:S3740!"/Provide the parametrized type for this generic.(È™àÊ

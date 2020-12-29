@@ -14,9 +14,6 @@
           <element id="module-output" name="BECS.TEAM.MTK" />
         </element>
         <element id="directory" name="lib">
-          <element id="archive" name="BECS.TEAM.MTK-0.0.1-SNAPSHOT.jar">
-            <element id="module-output" name="BECS.TEAM.MTK" />
-          </element>
           <element id="library" level="project" name="Maven: net.java.dev.jna:jna:5.5.0" />
           <element id="library" level="project" name="Maven: org.springframework:spring-context:5.2.5.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-aop:5.2.5.RELEASE" />
