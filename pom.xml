@@ -8,7 +8,7 @@
     <groupId>fa.training.becs</groupId>
     <artifactId>BECS.TEAM.MTK</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
 
     <name>BECS.TEAM.MTK Maven Webapp</name>
     <!-- FIXME change it to the project's website -->
